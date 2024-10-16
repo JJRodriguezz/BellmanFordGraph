@@ -1,0 +1,11 @@
+# Ignorar archivos compilados
+bin/
+
+# Ignorar configuración del entorno de Visual Studio Code
+.vscode/
+
+# Ignorar librerías locales
+libs/
+
+# Ignorar archivos de sistema específicos de macOS
+.DS_Store
