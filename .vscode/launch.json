@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BellmanFord",
+            "request": "launch",
+            "mainClass": "BellmanFord",
+            "classpath": [
+                "libs/jgraphx.jar",
+                "bin"
+            ]
+        }
+    ]
+}
